@@ -1,2 +1,4 @@
 # PhotoAppSales
-Created Bootstrap template for Photo App Sales 
+Created responsive Bootstrap template for Photo App Sales.
+
+![](./img/screenshot.jpg)
